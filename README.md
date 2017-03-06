@@ -1,4 +1,4 @@
-Welcome to Microsoft TCE! 
+## Welcome to Microsoft TCE! 
 
 Congratulations on being accepted as a Civic Technology and Engagement Fellow! Here are some resources to get you started on the team:
 
