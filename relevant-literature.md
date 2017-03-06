@@ -15,5 +15,7 @@ Watch: https://www.youtube.com/watch?v=fccsexIGqHs
 
 Read: http://civichall.org/civicist/a-maddeningly-broad-term/ 
 
+Read: https://news.microsoft.com/cloudforgood/
+
  
  
