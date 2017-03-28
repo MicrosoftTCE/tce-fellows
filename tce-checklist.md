@@ -2,7 +2,10 @@
 Congratulations on being accepted as a Civic Technology and Engagement Fellow! Here’s a handy checklist of items coming your way:  
 * Computer  
 * Alias  
-* Badge  
+* Badge 
+ * Microsoft Badge (Contact diocha@microsoft.com)
+ * MSR Building Badge (Talk to MSR Receptionist)
+ * Grand Central Tech Badge (Contact julia@grandcentraltech.com)
  
 *NOTE – you may receive a bit more than just these items, anything after these 3 items depends on where you are stationed and your manager! These may include:  
 * Surface Pro Docking Station  
