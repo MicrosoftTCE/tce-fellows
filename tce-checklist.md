@@ -2,20 +2,16 @@
 Congratulations on being accepted as a Civic Technology and Engagement Fellow! Here’s a handy checklist of items coming your way:  
 * Computer  
 * Alias  
-* Badge 
- * Microsoft Badge (Contact diocha@microsoft.com)
- * MSR Building Badge (Talk to MSR Receptionist)
- * Grand Central Tech Badge (Contact julia@grandcentraltech.com)
+* Microsoft Badge (Contact diocha@microsoft.com)
+* MSR Building Badge (Talk to MSR Receptionist)
+* Grand Central Tech Badge (Contact julia@grandcentraltech.com)
  
 *NOTE – you may receive a bit more than just these items, anything after these 3 items depends on where you are stationed and your manager! These may include:  
 * Surface Pro Docking Station  
 * Arc Touch Mouse  
-* Windows Phone  
-* Computer mouse pad / screen cloth combo  
 * Desk space  
  *   Monitor  
- *   Speakers  
- *   Etc.  
+ *   Speakers   
 
 Your alias will be assigned to you some days after your first work day, and the badge will happen a few days after that. I recommend you just stop by your badging office each day and ask if they are in the system. The desk, monitor, speakers, and docking station are all depending on where you get stationed. Some offices, you don’t get a desk, you just have a touchdown space.   
 
