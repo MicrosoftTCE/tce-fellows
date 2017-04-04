@@ -1,7 +1,6 @@
-## Tutorial Link: Setting Up A Virtual Machine on Azure
 
-## Tutorial:
-The tutorial on Microsft Docs is pretty solid. Tutorial here: <https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal>
+## Tutorial: Setting Up A Virtual Machine on Azure
+The tutorial on Microsoft Docs is pretty solid. Tutorial here: <https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal>
 
 ### Why?
 Because there are certain Azure desktop apps that cannot be run on Macs i.e. the all-important [PowerBI]. **If you are already using a computer running Windows and/or you would prefer to use your Surface, you won't need to set up a virtual machine (VM).** 
