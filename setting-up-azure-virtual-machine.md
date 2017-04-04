@@ -11,11 +11,18 @@ This tutorial assumes you have successfully set up an Azure subscription. If you
 ### Notes:
 * When choosing the size of your VM (in step 4), choose the cheapest option. You should have been given credits that should cover this cost.
 
-* ![VM Blade][VMblade]
+* In 'Open port 80 for web traffic' in Step 1, you can also access the NSG by the following:
 
+Click the **virtual machine icon** that should be on the left (I believe this is what the tutorial refers to as the 'blade'). Then click **the name of your new VM**:
+![VM Blade][VMblade]
+
+Click **Network Interfaces**. Then, under Security Group, click the name that **ends with -nsg**:
+![nsg][nsg]
 
 
 [PowerBI]: https://powerbi.microsoft.com/en-us/downloads/
 [free account]: https://azure.microsoft.com/en-us/free/
 
 [VMblade]: https://github.com/microsoftny/tce-fellows/blob/master/images/VMblade.jpg?raw=true
+
+[nsg]: https://github.com/microsoftny/tce-fellows/blob/master/images/nsg.jpg?raw=true
