@@ -18,4 +18,4 @@ This tutorial assumes you have successfully set up an Azure subscription. If you
 [PowerBI]: https://powerbi.microsoft.com/en-us/downloads/
 [free account]: https://azure.microsoft.com/en-us/free/
 
-[VMblade]: https://github.com/microsoftny/tce-fellows/tree/master/images/VMblade.jpg
+[VMblade]: https://github.com/microsoftny/tce-fellows/blob/master/images/VMblade.jpg?raw=true
