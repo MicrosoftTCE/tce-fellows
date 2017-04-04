@@ -22,7 +22,7 @@ This tutorial assumes you have successfully set up an Azure subscription. If you
 * ... then continue on with the tutorial.
 
 ### End Result
-HUZZAH! If you did everything successfully, you should now see your Mac running Windows.  
+HUZZAH! If you did everything successfully, you should now see your Mac running Windows. What a thing of beauty. 
 ![Windows on a Mac say whaat][macwin]
 
 
