@@ -20,7 +20,7 @@ New developers should user their existing GitHub account. It should have 2FA ena
 ## Entity hierarchy
 
 Account owner: civic-machine@outlook.com
- * Directory / Tenant: civicmachineourlook (civicmachineoutlook.onmicrosoft.com)
+ * Directory / Tenant: civicmachineoutlook (civicmachineoutlook.onmicrosoft.com)
  * Tenant ID: 163c1d45-04ce-4368-89cf-96531765fbb7
  
 ## Subscriptions
