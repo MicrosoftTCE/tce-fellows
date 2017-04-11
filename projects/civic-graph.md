@@ -15,15 +15,15 @@ The microsoftny user is an admin of the MicrosoftTCE org so that its credentials
 
 New developers should user their existing GitHub account. It should have 2FA enabled (please enable if this is not already the case).
 
-## Azure
+# Azure
 
-# Entity hierarchy
+## Entity hierarchy
 
 Account owner: civic-machine@outlook.com
  * Directory / Tenant: civicmachineourlook (civicmachineoutlook.onmicrosoft.com)
  * Tenant ID: 163c1d45-04ce-4368-89cf-96531765fbb7
  
-# Subscriptions
+## Subscriptions
  * d6b238db-2ea5-4c4b-8a39-401d161baddf (Sponsorship)
  * e434c18f-dd55-41c1-b741-1581ee3df62c (Pay-As-You-Go)
  * 28b96368-d0e1-4ff0-ba75-3fd32ad8525b (Pay-As-You-Go)
@@ -55,7 +55,7 @@ Subscription owners are managed by:
 
 When creating a Resource Group, be conscious of which region is used. Pick a region that has all the desired services for needed by the Resource Group.
 
-# Ross notes
+## Ross notes
 
 Look into: Resource Group --> Automation Script --> 
 
@@ -64,9 +64,9 @@ Update civic-graph-UI repo README w/ deployment instructions
 Performance tests
 Python Application Insights
 
-# Civic Graph
+## Civic Graph
 
-# Civic Graph UI
+## Civic Graph UI
 
 Pricing tier: S1 Standard
  * Mostly for the 5 slots (staging environments)
@@ -86,7 +86,7 @@ There are a few options for how to serve the static Civic Graph UI. Here's the t
  * Doesn't solve the build step problem (would need to push build to its own branch or convert the whole thing to a Jekyll site)
 
 
-# API
+## API
 
 Per: https://www.kennethreitz.org/essays/a-better-pip-workflow
  * pip install -r requirements-to-freeze.txt --upgrade
