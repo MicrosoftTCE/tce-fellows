@@ -20,13 +20,14 @@ New developers should user their existing GitHub account. It should have 2FA ena
 # Entity hierarchy
 
 Account owner: civic-machine@outlook.com
- *Directory / Tenant: civicmachineourlook (civicmachineoutlook.onmicrosoft.com)
- *Tenant ID: 163c1d45-04ce-4368-89cf-96531765fbb7
- *Subscriptions:
- *d6b238db-2ea5-4c4b-8a39-401d161baddf (Sponsorship)
- *e434c18f-dd55-41c1-b741-1581ee3df62c (Pay-As-You-Go)
- *28b96368-d0e1-4ff0-ba75-3fd32ad8525b (Pay-As-You-Go)
- *Suspended due to PastDue (converted from Sponsorship offer to Pay-as-you-go after #58531 was cancelled)
+ * Directory / Tenant: civicmachineourlook (civicmachineoutlook.onmicrosoft.com)
+ * Tenant ID: 163c1d45-04ce-4368-89cf-96531765fbb7
+ 
+# Subscriptions
+ * d6b238db-2ea5-4c4b-8a39-401d161baddf (Sponsorship)
+ * e434c18f-dd55-41c1-b741-1581ee3df62c (Pay-As-You-Go)
+ * 28b96368-d0e1-4ff0-ba75-3fd32ad8525b (Pay-As-You-Go)
+ * Suspended due to PastDue (converted from Sponsorship offer to Pay-as-you-go after #58531 was cancelled)
 
 ## Tools
 
