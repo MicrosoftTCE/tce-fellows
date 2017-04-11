@@ -69,28 +69,28 @@ Python Application Insights
 # Civic Graph UI
 
 Pricing tier: S1 Standard
-•	Mostly for the 5 slots (staging environments)
-•	We don't care about auto-scale since this is static and the CDN will take care of that
+ * Mostly for the 5 slots (staging environments)
+ * We don't care about auto-scale since this is static and the CDN will take care of that
 
 There are a few options for how to serve the static Civic Graph UI. Here's the thought process we went through:
-•	Serve from Azure Web App (static) — this is what we currently do
-•	Bummer: must commit build code
-♣	But also kind of a feature – extra step, but flexibility
-•	Gives us 5 slots (using the S1 pricing tier) for staging environments
-•	Plays pretty nicely with CDN, SSL, etc.
-•	Serve from Azure Web App using Continuous Integration
-•	This would be nice (allow the build step to happen on Azure, so we don't need to commit build code), but currently the CI beta only works for ASP apps
-•	Serve from GitHub Pages, put an Azure CDN in front of it for metrics and SSL
-•	Not bad, but has a production dependency on GH Pages being up
-•	Also doesn't allow for multiple concurrent environments (prod-only)
-•	Doesn't solve the build step problem (would need to push build to its own branch or convert the whole thing to a Jekyll site)
+ * Serve from Azure Web App (static) — this is what we currently do
+ * Bummer: must commit build code
+ * But also kind of a feature – extra step, but flexibility
+ * Gives us 5 slots (using the S1 pricing tier) for staging environments
+ * Plays pretty nicely with CDN, SSL, etc.
+ * Serve from Azure Web App using Continuous Integration
+ * This would be nice (allow the build step to happen on Azure, so we don't need to commit build code), but currently the CI beta only works for ASP apps
+ * Serve from GitHub Pages, put an Azure CDN in front of it for metrics and SSL
+ * Not bad, but has a production dependency on GH Pages being up
+ * Also doesn't allow for multiple concurrent environments (prod-only)
+ * Doesn't solve the build step problem (would need to push build to its own branch or convert the whole thing to a Jekyll site)
 
 
 # API
 
 Per: https://www.kennethreitz.org/essays/a-better-pip-workflow
-•	pip install -r requirements-to-freeze.txt --upgrade
-•	pip freeze > requirements.txt
+ * pip install -r requirements-to-freeze.txt --upgrade
+ * pip freeze > requirements.txt
 
 
 
