@@ -25,9 +25,6 @@ Account owner: civic-machine@outlook.com
  
 ## Subscriptions
  * d6b238db-2ea5-4c4b-8a39-401d161baddf (Sponsorship)
- * e434c18f-dd55-41c1-b741-1581ee3df62c (Pay-As-You-Go)
- * 28b96368-d0e1-4ff0-ba75-3fd32ad8525b (Pay-As-You-Go)
- * Suspended due to PastDue (converted from Sponsorship offer to Pay-as-you-go after #58531 was cancelled)
 
 ## Tools
 
@@ -37,7 +34,7 @@ You'll also probably want [Visual Studio Code](https://aka.ms/devicelogin)
 
 ## Subscriptions
 
-A subscription is a method of payment for Azure resources. Ideally, we (TCE) should have a single sponsorship subscription; we currently have multiple, as we're in a state of transition. 
+A subscription is a method of payment for Azure resources. Ideally, we (TCE) should have a single sponsorship subscription.
 Once a sponsorship subscription reaches the end of its life, it automatically converts to a Pay-as-you-go subscription, at which point charges begin accruing on the credit card specified with the subscription. To avoid this, a new sponsorship subscription should be requested at that time.
 
 ## Identity & Authentication Management (IAM)
