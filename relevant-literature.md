@@ -21,6 +21,8 @@ Peruse: https://bizspark.microsoft.com/
 
 Download: https://powerbi.microsoft.com/en-us/
 
+Peruse: https://docs.google.com/document/d/1TWmly46ja6hEcwY41T1h9PN2KeGv2vV0TldBi6Fa0do/edit?usp=sharing
+
 
 Virtual Academy Courses to peruse:
 
