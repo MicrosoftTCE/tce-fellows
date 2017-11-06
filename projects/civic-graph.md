@@ -52,15 +52,6 @@ Subscription owners are managed by:
 
 When creating a Resource Group, be conscious of which region is used. Pick a region that has all the desired services for needed by the Resource Group.
 
-## Ross notes
-
-Look into: Resource Group --> Automation Script --> 
-
-Update civic-graph-UI repo README w/ deployment instructions
-
-Performance tests
-Python Application Insights
-
 ## Civic Graph
 
 ## Civic Graph UI
