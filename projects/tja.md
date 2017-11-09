@@ -25,4 +25,6 @@ After two pilot cohorts of Tech Jobs Academy, learnings were compiled into a col
 
 Future work should display these resources as a tab on the home page. The executive decision has been to list them separately until final versions are uploaded. 
 
+## Data Viz
+All data & visualizations for the report are hosted in a Power BI Group Workspace titled, [John Farmer (CELA)'s direct reports](https://msit.powerbi.com/groups/3fc5767a-4b98-43f9-9b27-a9b36645f7da/contentlist/dashboards). You must first create a Power BI account and then be added to the workspace. Data sheets and reports can be downloaded directly from this workspace. 
 
