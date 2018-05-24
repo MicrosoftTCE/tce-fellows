@@ -1,8 +1,6 @@
 # Subscriptions - Paid & Free
 
-The services listed in the table below are used by Microsoft Cities team for various projects. Some of the services are paid on a monthly/yearly basis (as inidicated) and are on auto-renew. If payment method needs to be changed, you must log in to each paid service and adjust the billing options accordingly.
-
-The following is a guide to each column of the table.
+The services listed in the table below are used by Microsoft Cities team for various projects. Some of the services are paid on a monthly/yearly basis (as inidicated) and are on auto-renew. If payment method needs to be changed, you must log in to each paid service and adjust the billing options accordingly. The following is a guide to each column of the table:
 
 **Subscription** - The name of the subscription service
 
